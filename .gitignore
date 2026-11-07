@@ -1,0 +1,5 @@
+# Only the final reports go in this repository
+.DS_Store
+*.zip
+ADV/
+MAINS/
